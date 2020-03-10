@@ -13,9 +13,8 @@ $ cd ScreenOff
 $ gradle assemble             # This will generate two files in project/build/apk/
 ```
 
-app-debug-unaligned.apk 
-app-release-unsigned.apk
-
+- app-debug-unaligned.apk 
+- app-release-unsigned.apk
 
 ### Prerequisites
 
