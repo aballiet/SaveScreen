@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/aballiet/ScreenOff.svg?branch=master)](https://travis-ci.com/aballiet/ScreenOff)
+
 # ScreenOff Android App
 
 ScreenOff allows you to turn off the screen of your Android device while keeping your current app running (Youtube, Chrome or a game for example).
