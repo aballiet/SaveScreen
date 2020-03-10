@@ -1,8 +1,6 @@
 package com.balliet.screenoff;
 
 import android.app.Activity;
-import android.app.Notification;
-import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.PowerManager;
@@ -15,7 +13,6 @@ public class MainActivity extends Activity {
     private Button button_on;
     private Button button_off;
     private TextView status;
-    private Notification notification;
 
     private PowerManager powerManager;
     private PowerManager.WakeLock wakeLock;
@@ -45,18 +42,6 @@ public class MainActivity extends Activity {
                     wakeLock.acquire();
                     status.setTextColor(Color.GREEN);
                     status.setText("Current status : on");
-
-                    notification = new Notification.Builder(getApplicationContext())
-                            .setLargeIcon(
-                                    BitmapFactory.decodeResource(getResources(),     R.drawable.ic_launcher))
-                            .setSmallIcon(R.drawable.ic_launcher).setTicker(tickerText)
-                            .setWhen(System.currentTimeMillis()).setContentTitle(contentTitle)
-                            .setOngoing(true)
-                            .setContentText(contentText)
-                            .setContentIntent(contentIntent)
-
-
-
                 }
             }
         });
