@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ScreenOff</string>
+    <string name="title">This app allows you to use the proximity sensor to turn off the screen</string>
+    <string name="statusInit">Current status : off</string>
 </resources>
