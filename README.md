@@ -1,7 +1,9 @@
 # ScreenOff Android App
 
 ScreenOff allows you to turn off the screen of your Android device while keeping your current app running (Youtube, Chrome or a game for example).
-It uses the proximity sensor to turn the screen off
+It uses the proximity sensor to turn the screen off.
+
+This project has been initialized in order to fulfill user of reddit : [see here](https://www.reddit.com/r/deeptown/comments/ffsl49/tip_app_to_turn_off_your_screen_while_maximizing/)
 
 ## Screenshot
 <img src="https://github.com/aballiet/ScreenOff/raw/master/readme_ressources/screenshot.jpg" width="300">
