@@ -7,6 +7,16 @@ It uses the proximity sensor to turn the screen off
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+```bash
+$ git clone https://github.com/aballiet/ScreenOff.git
+$ cd ScreenOff
+$ gradle assemble             # This will generate two files in project/build/apk/
+```
+
+app-debug-unaligned.apk 
+app-release-unsigned.apk
+
+
 ### Prerequisites
 
 Android Studio with SDK >= 21
