@@ -4,7 +4,7 @@ ScreenOff allows you to turn off the screen of your Android device while keeping
 It uses the proximity sensor to turn the screen off
 
 ## Screenshot
-![Screenshot](https://github.com/aballiet/ScreenOff/raw/master/readme_ressources/screenshot.jpg)
+![Screenshot](https://github.com/aballiet/ScreenOff/raw/master/readme_ressources/screenshot.jpg =250x)
 
 
 ## Install the app 
