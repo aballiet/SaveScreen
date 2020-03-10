@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee59ce6acc27454a9b5d94889ec3bf80)](https://app.codacy.com/manual/aballiet/ScreenOff?utm_source=github.com&utm_medium=referral&utm_content=aballiet/ScreenOff&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/aballiet/ScreenOff.svg?branch=master)](https://travis-ci.com/aballiet/ScreenOff)
 
 # ScreenOff Android App
